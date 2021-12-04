@@ -1,0 +1,219 @@
+{
+  "category": [
+    {
+      "id": "1",
+      "name": "man",
+      "store_id": "1"
+    },
+    {
+      "id": "2",
+      "name": "shoes",
+      "store_id": "1"
+    },
+    {
+      "id": "3",
+      "name": "woman",
+      "store_id": "1"
+    },
+    {
+      "id": "4",
+      "name": "girl",
+      "store_id": "1"
+    },
+    {
+      "id": "5",
+      "name": "boy",
+      "store_id": "2"
+    },
+    {
+      "id": "6",
+      "name": "category_name",
+      "store_id": "2"
+    },
+    {
+      "id": "7",
+      "name": "category_name",
+      "store_id": "2"
+    },
+    {
+      "id": "8",
+      "name": "category_name",
+      "store_id": "2"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "2"
+    },
+    {
+      "id": "7",
+      "name": "category_name",
+      "store_id": "3"
+    },
+    {
+      "id": "8",
+      "name": "category_name",
+      "store_id": "3"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "3"
+    },
+    {
+      "id": "7",
+      "name": "category_name",
+      "store_id": "3"
+    },
+    {
+      "id": "8",
+      "name": "category_name",
+      "store_id": "3"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "3"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "4"
+    },
+    {
+      "id": "3",
+      "name": "category_name",
+      "store_id": "4"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "4"
+    },
+    {
+      "id": "5",
+      "name": "category_name",
+      "store_id": "4"
+    },
+    {
+      "id": "7",
+      "name": "category_name",
+      "store_id": "5"
+    },
+    {
+      "id": "1",
+      "name": "category_name",
+      "store_id": "5"
+    },
+    {
+      "id": "3",
+      "name": "category_name",
+      "store_id": "5"
+    },
+    {
+      "id": "6",
+      "name": "category_name",
+      "store_id": "5"
+    },
+    {
+      "id": "2",
+      "name": "category_name",
+      "store_id": "5"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "6"
+    },
+    {
+      "id": "7",
+      "name": "category_name",
+      "store_id": "6"
+    },
+    {
+      "id": "1",
+      "name": "category_name",
+      "store_id": "6"
+    },
+    {
+      "id": "3",
+      "name": "category_name",
+      "store_id": "6"
+    },
+    {
+      "id": "6",
+      "name": "category_name",
+      "store_id": "6"
+    },
+    {
+      "id": "2",
+      "name": "category_name",
+      "store_id": "6"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "6"
+    },
+    {
+      "id": "7",
+      "name": "category_name",
+      "store_id": "7"
+    },
+    {
+      "id": "1",
+      "name": "category_name",
+      "store_id": "7"
+    },
+    {
+      "id": "3",
+      "name": "category_name",
+      "store_id": "7"
+    },
+    {
+      "id": "6",
+      "name": "category_name",
+      "store_id": "7"
+    },
+    {
+      "id": "2",
+      "name": "category_name",
+      "store_id": "7"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "7"
+    },
+    {
+      "id": "7",
+      "name": "category_name",
+      "store_id": "8"
+    },
+    {
+      "id": "1",
+      "name": "category_name",
+      "store_id": "8"
+    },
+    {
+      "id": "3",
+      "name": "category_name",
+      "store_id": "8"
+    },
+    {
+      "id": "6",
+      "name": "category_name",
+      "store_id": "8"
+    },
+    {
+      "id": "2",
+      "name": "category_name",
+      "store_id": "8"
+    },
+    {
+      "id": "9",
+      "name": "category_name",
+      "store_id": "8"
+    }
+  ]
+}
